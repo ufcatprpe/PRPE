@@ -25,7 +25,7 @@ Este seção tem como objetivo apresentar o procedimento padrão PRPE0001 que tr
         <td>Revisão</p></td>
     </tr>
     <tr>
-        <td><a href="http://lattes.cnpq.br/2268506213083114" target="_blank">Prof. Wanderlei Malaquias Pereira Junior</a> e <a href="http://lattes.cnpq.br/2268506213083114" target="_blank">Jordana Aguiar</a></td>
+        <td><a href="http://lattes.cnpq.br/2268506213083114" target="_blank">Prof. Wanderlei Malaquias Pereira Junior</a> e <a href="http://lattes.cnpq.br/6397960074636015" target="_blank">Ma. Jordana Alves de Aguiar</a></td>
         <td>PRPE0001.2023-1</td>
     </tr>
 </table>

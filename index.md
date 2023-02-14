@@ -10,14 +10,14 @@
 <h1>Desenvolvimento</h1>
  
 - [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)     
-- [Jordana Aguiar](http://lattes.cnpq.br/2268506213083114)       
+- [Ma. Jordana Alves de Aguiar](http://lattes.cnpq.br/6397960074636015)       
 
 
 <h1>Índice</h1>
 
 <dl>
   <dt>Processo de pagamento mensal do RU</dt>
-  <dd><a href="https://wmpjrufg.github.io/META_TOOLBOX/001-guia-ru.html" target="_blank">Guia</a></dd>
+  <dd><a href="https://ufcatprpe.github.io/PRPE/001-guia-ru.html" target="_blank">Guia</a></dd>
   <!--
   <dt>Common Library</dt>
   <dd><a href="https://wmpjrufg.github.io/META_TOOLBOX/CO.html" target="_blank">Common Library</a></dd>
