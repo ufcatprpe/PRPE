@@ -3,19 +3,23 @@
 <script id = "MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <!--Don't delete ths script-->
 
-<h1>Processo de pagamento mensal do RU - Guia</h1>
-
-<h2>POP</h2>
+<h1>Guia processo de pagamento mensal do RU (PRPE0001.2023-1)</h1>
 
 <p align = "justify">
 Este seção tem como objetivo apresentar o procedimento padrão PRPE0001 que trata sobre o fluxo de <b>processo de solicitação de pagamento mensal do RU</b>.
 </p>
 
-<ul>
-  <li>CHECAR/SOLICITAR EMPENHO COM A CONTABILIDADE (DIRETORIA DE GESTÃO E AVALIAÇÃO) – REPASSAR O VALOR NECESSÁRIO CONSIDERANDO OS RECURSOS DO PNAE E RECURSOS PRÓPRIOS.</li>
-  <li>GERAR PROCESSO SEI DO TIPO ORÇAMENTO E FINANÇAS: PAGAMENTO DE PESSOA JURÍDICA RELACIONADO COM O PROCESSO 23070.033457/2021-13, NOMEAR O PROCESSO COMO: PAGAMENTO NUTRIR MÊS DE REFERÊNCIA/ANO DE REFERÊNCIA</li>
-  <li>INSERIR DOCUMENTO EXTERNO (PDF)</li>
-</ul>
+<ol>
+    <li><p align = "justify">Checar disponibilidade de empenho no processo relacionado “Orçamento e Finanças: empenho Estimado” – <b>Processo 23070.033457/2021-13</b>.</p></li>
+    <li><p align = "justify">Em caso de empenhos não disponíveis, solicitar rubrica financeira a PROAF (<i>Unidade SEI CAF-RC</i>) em um processo relacionado ao <b>23070.033457/2021-13</b>, do tipo Orçamento e Finanças: Empenho Estimado.</p></li>
+    <li><p align = "justify">Em caso de empenhos disponíveis, gerar processo SEI do tipo orçamento e finanças: pagamento de pessoa jurídica relacionado com o processo <b>23070.033457/2021-13</b>, nomear o processo como: Pagamento Nutrir mês de referência/ano de referência. (<i>Exemplo: Pagamento Nutrir janeiro/2023</i>).</p></li>
+    <li><p align = "justify">Inserir os seguintes documentos no processo de pagamento: relatório emitido pela Nutrir após conferência administrativa; relatório da fiscalização técnica que contém o Índice de Medição de Resultados (IMR) e o relatório de conferência administrativa.</p></li>
+    <li><p align = "justify">Após inserção dos documentos, enviar e-mail e processo para a Prefeitura Universitária (Unidade SEI DIR/RC).</p></li>
+    <li><p align = "justify">Preencher o formulário controle de dados com sua conta <i>@ufcat.edu.br</i>: <br> 
+    <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf2iGbcBRx7iFGzLbpVVA_eBnF2L5DpmepqkMFMKtu7xPJrgQ/viewform?embedded=true" width="968" height="1351" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe></center>.</p></li>
+</ol>
+
+
 
 <h2>Revisões</h2>
 
