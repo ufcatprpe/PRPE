@@ -11,7 +11,7 @@ Este seção tem como objetivo apresentar o procedimento padrão PRPE0001 que tr
 
 <ol>
     <li><p align = "justify">Checar disponibilidade de empenho no processo relacionado “Orçamento e Finanças: empenho Estimado” – <b>Processo 23070.033457/2021-13</b>.</p></li>
-    <li><p align = "justify">Em caso de empenhos não disponíveis, solicitar rubrica financeira a PROAF (<i>Unidade SEI CAF-RC</i>), considerando o recurso a ser utilizado (RU Integral, subsidiados e estudantes do PPG), em um processo relacionado ao <b>23070.033457/2021-13</b>, do tipo Orçamento e Finanças: Empenho Estimado.</p></li>
+    <li><p align = "justify">Em caso de empenhos não disponíveis, solicitar rubrica financeira a PROAF (<i>Unidade SEI CAF-RC</i>), considerando o recurso a ser utilizado (RU Integral e subsidiados), em um processo relacionado ao <b>23070.033457/2021-13</b>, do tipo Orçamento e Finanças: Empenho Estimado.</p></li>
     <li><p align = "justify">Em caso de empenhos disponíveis, gerar processo SEI do tipo orçamento e finanças: pagamento de pessoa jurídica relacionado com o processo <b>23070.033457/2021-13</b>, nomear o processo como: Pagamento Nutrir mês de referência/ano de referência. (<i>Exemplo: Pagamento Nutrir janeiro/2023</i>).</p></li>
     <li><p align = "justify">Inserir os seguintes documentos no processo de pagamento: relatório emitido pela Nutrir após conferência administrativa; relatório da fiscalização técnica que contém o Índice de Medição de Resultados (IMR) e o relatório de conferência administrativa.</p></li>
     <li><p align = "justify">Após inserção dos documentos, enviar e-mail e processo para a Prefeitura Universitária (Unidade SEI DIR/RC).</p></li>
